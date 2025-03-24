@@ -2,7 +2,7 @@
 
 ## Installation ( git bare repository )
 
-This git bare configuration was made following the following approach / tutorial
+This git bare configuration was made with the following approach / tutorial
 
 - Approach by StreakyCobra: https://news.ycombinator.com/item?id=11071754
 - Tutorial by durdn https://www.atlassian.com/git/tutorials/dotfiles
