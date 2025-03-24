@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Versioned dotfiles
+!.gitignore
+!.bashrc
